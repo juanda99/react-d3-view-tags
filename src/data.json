@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Categorías",
+    "children": [
+      {
+        "name": "Alimentación",
+        "value": "alimentacion",
+        "children": [
+          {
+            "name": "Origen animal",
+            "value": "alimento-de-origen-animal",
+            "children": [
+              {
+                "name": "Lacteo",
+                "value": "lacteo"
+              },
+              {
+                "name": "Carne",
+                "value": "carne"
+              },
+              {
+                "name": "Pescado",
+                "value": "pescado"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Abecedario",
+        "value": "abecedario",
+        "children": [
+          {
+            "name": "Letra",
+            "value": "letra",
+            "children": [
+              {
+                "name": "Mayúscula",
+                "value": "mayuscula"
+              },
+              {
+                "name": "Minúscula",
+                "value": "minuscula"
+              }
+            ]
+          },
+          {
+            "name": "Sonido",
+            "value": "sonido",
+            "children": [
+              {
+                "name": "Vocal",
+                "value": "vocal"
+              },
+              {
+                "name": "Consonante",
+                "value": "consonante"
+              }
+            ]
+          },
+          {
+            "name": "Signo ortográfico",
+            "value": "signo-ortografico"
+          }
+        ]
+      }
+    ]
+  }
+]
