@@ -5,7 +5,7 @@ import data from './data.json'
 
 const App = () => (
   <div id="treeWrapper" style={{ width: '100em', height: '100em' }}>
-    <Tree data={data} initialDepth={0} />
+    <Tree data={data} initialDepth={0} collapsible={true} />
   </div>
 )
 
